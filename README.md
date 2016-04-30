@@ -1,0 +1,2 @@
+# MAGSP
+Magento Sporty Theme
